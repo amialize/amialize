@@ -19,6 +19,16 @@
 - <img src = 'https://github.com/amialize/LYKOZERO-Delta-Night-Funkin/blob/main/art/kris.png' height='20'/> I'm actually Director of 'Delta Night Funkin' mod for Friday Night Funkin!!
 - 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝓉𝑜𝑜 𝒾𝓃 𝒢𝒪𝒟𝒪𝒯 ℰ𝒩𝒢ℐ𝒩ℰ...
 
-## OTHER HOBBYS :3
+## OTHER HOBBYS (..◜ᴗ◝..)
+- I usually like playing video games
+- I’m a sprite animator and a traditional/digital artist as well :3
+- I’m a self-taught musician; I play the guitar, piano and bass, and I enjoy singing!!
 
+## ALSO CHECK MY SPACEHEY 4 MORE INFO IN SPANISH!! ദ്ദി◝ ⩊ ◜.ᐟ
+<div align='center'>
 
+<h1>
+  
+[SpaceHey!](https://spacehey.com/amialice)
+</h1>
+</div>
