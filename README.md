@@ -1,16 +1,24 @@
-## 𓂃˖˳·˖ ִֶָ ⋆ Hello i'm Alice. (˶˃ ᵕ ˂˶) ⋆ ִֶָ˖·˳˖𓂃 ִֶָ
+## ⋆｡ﾟ☁︎｡⋆ Hello i'm Alice. (˶˃ ᵕ ˂˶) ｡ ﾟ☾ ﾟ｡⋆
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width="300" src="https://github.com/amialize/amialize/raw/main/images/cinnamoroll-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+𝒶 𝑔𝒾𝓇𝓁 𝓌𝒽𝑜 𝓁𝒾𝓀𝑒𝓈 𝓋𝒾𝒹𝑒𝑜 𝑔𝒶𝓂𝑒𝓈 𝒶𝓃𝒹 𝒾𝓈 𝓃𝑒𝓌 𝓉𝑜 𝓉𝒽𝑒 𝓌𝑜𝓇𝓁𝒹 𝑜𝒻 𝓅𝓇𝑜𝑔𝓇𝒶𝓂𝓂𝒾𝓃𝑔...
+* **I am a junior programmer specialising in:**
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+  - <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='15'/> HTML ๋࣭⭑
+  - <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='15'/> CSS ๋࣭⭑
+  - <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='15'/> JavaScript ๋࣭⭑
+  - <img src = 'https://github.com/amialize/amialize/blob/main/images/toppng.com-haxe-logo-512x512.png' height='15'/> Haxe ๋࣭⭑
+  - <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='15'/> Python ๋࣭⭑
+
+꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑꒷꒦꒷꒦ ⭑
+
+## I’m also interested in creating video games and mods for them!! ꉂ(˵˃ ᗜ ˂˵)
+- <img src = 'https://github.com/amialize/LYKOZERO-Delta-Night-Funkin/blob/main/art/kris.png' height='20'/> I'm actually Director of 'Delta Night Funkin' mod for Friday Night Funkin!!
+- 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝓉𝑜𝑜 𝒾𝓃 𝒢𝒪𝒟𝒪𝒯 ℰ𝒩𝒢ℐ𝒩ℰ...
+
+## OTHER HOBBYS :3
+
 
